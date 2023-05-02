@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
 title: GlitchR
+navigation:
+  - text: Linux Tips
+    internal: true
+    url: /linux
