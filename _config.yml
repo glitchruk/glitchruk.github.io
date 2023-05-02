@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: GlitchR
+plugins:
+  - jekyll-default-layout
 navigation:
   - text: Linux Tips
     internal: true
